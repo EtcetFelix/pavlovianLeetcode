@@ -1,4 +1,4 @@
-# pavlovianLeetcode
+# Pavlovian Leetcode
 This project allows someone to leverage their gaming addiction to study more leetcode. It checks if a specific game (minecraft in this case) is running, calculates the time left to play, and exits the game if time runs out.
 Time is added by requesting the user's leetcode statistics and adds 15 minutes for easy problems solved, 30 for medium, and 1 hour for hard problems. 
 The idea is based upon pavlovian positive reinforcement training. The user will begin to associate leetcode problems with gaming sessions, wanting to solve more. 
